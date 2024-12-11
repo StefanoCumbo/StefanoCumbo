@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefano Cumbo</h1>
 <h3 align="center">A passionate full-stack Computer Science student from London!</h3>
 
-- 🌱 I’m currently learning **Typecript,GraphQL,SprintBoot**
+- 🌱 I’m currently learning **Typescript, GraphQL, SprintBoot, OpenAI**
 
 - 👨‍💻 All of my projects are available at [https://stef-dev-portfolio.netlify.app/](https://stef-dev-portfolio.netlify.app/)
 
